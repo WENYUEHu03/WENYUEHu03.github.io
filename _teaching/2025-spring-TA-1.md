@@ -15,6 +15,7 @@ Date and venue: 2(3,4), 4(1,2)  5201
 
 # Exams
 Midterm Exam May 10th 8:30AM-10:30AM
+
 Final Exam TBA
 
 
