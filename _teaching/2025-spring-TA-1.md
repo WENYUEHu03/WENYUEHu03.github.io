@@ -8,7 +8,7 @@ date: 2025-02-24
 location: "Hefei, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course gives an introduction to the basic knowledge of linear algebra. The main topics include solving a system of linear equations, the computation of matrix and determinant, the theory of vector space and linear transformation, the Euclidian space, and the quadratic form, etc.
 
 Heading 1
 ======
