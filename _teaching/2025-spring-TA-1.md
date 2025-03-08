@@ -10,11 +10,19 @@ location: "Hefei, China"
 
 This course gives an introduction to the basic knowledge of linear algebra. The main topics include solving a system of linear equations, the computation of matrix and determinant, the theory of vector space and linear transformation, the Euclidian space, and the quadratic form, etc.
 
-Midterm Exam May 10th 8:30AM-10:30AM
-======
+# Exams
+## Midterm Exam May 10th 8:30AM-10:30AM
+## Final Exam TBA
 
-Heading 2
-======
+# Course Link
+[Course link](https://home.v.ustc.edu.cn/course/join/3E3WG0F9NQ9)
 
-Heading 3
-======
+
+# Homework
+## Week 1  
+Chapter 2  3, 5, 6, 8.
+Supplementary question: given two vectors (a,b), (c,d) in a planar rectangular coordinate system, compute the area of a parallelogram formed by these two vectors, and then see if it is the same by analogy with the method in Chapter 1, Section 4. If you have time think about how volumes are calculated in higher dimensions.
+
+## Week 2
+Chapter 3  1(2,3,4,5); 4, 5, 7.
+
