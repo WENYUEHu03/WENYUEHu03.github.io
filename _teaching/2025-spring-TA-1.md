@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant experience 1"
+title: "Linear Algebra B1 Teaching Assistant"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2025-spring-teaching-1
