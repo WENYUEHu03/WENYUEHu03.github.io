@@ -15,11 +15,3 @@ Date and venue: 2(3,4), 4(1,2)  5201
 # Course Link
 [Course link](https://home.v.ustc.edu.cn/course/join/3E3WG0F9NQ9)
 
-
-
-
-# TA Email Address
-Wenyue Hu: 3582644265@qq.com
-
-Zijian Zhou: zhouzijian@mail.ustc.edu.cn
-
