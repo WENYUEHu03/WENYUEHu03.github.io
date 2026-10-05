@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Academic Master's student at the [State Key Laboratory of Cognitive Neuroscience and Learning](https://brain.bnu.edu.cn/index.htm/), [Beijing Normal University](https://www.bnu.edu.cn/). My advisor is [Shuyu Li](https://brain.bnu.edu.cn/kytd/jsyjy/Ljs/7f7101f905884efebecd4483c751d49b.htm/).
+I am a first-year Academic Master's student at the [State Key Laboratory of Cognitive Neuroscience and Learning](https://brain.bnu.edu.cn/), [Beijing Normal University](https://www.bnu.edu.cn/). My advisor is [Shuyu Li](https://brain.bnu.edu.cn/kytd/jsyjy/Ljs/7f7101f905884efebecd4483c751d49b.htm).
 
 I completed my undergraduate study at the [School of Gifted Young](https://sgy.ustc.edu.cn/) and [School of Mathematics](https://math.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/).
 
