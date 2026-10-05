@@ -3,7 +3,7 @@ title: "Linear Algebra B1 Teaching Assistant"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2025-spring-teaching-1
-venue: "University of Science and Technology of China, School of Mathematical Science"
+venue: "University of Science and Technology of China, School of Mathematics"
 date: 2025-02-24
 location: "Hefei, China"
 ---
