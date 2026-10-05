@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Wenyue Hu's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Wenyue Hu"
 description              : &description "personal description"
 url                      : https://WENYUEHu03.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,7 +83,7 @@ author:
   name             : "Wenyue Hu"
   avatar           : "bocchi.png"
   bio              : "an apprentice of mathematics and neuroscience"
-  location         : "Anhui, China"
+  location         : "Beijing, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
